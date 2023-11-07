@@ -1,0 +1,56 @@
+.first-section {
+    padding-top: 184px;
+    padding-bottom: 200px;
+    display: flex;
+    justify-content: center;
+    background: url("../../assets/images/firstSection-back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.first-section__title {
+    color: #FFF;
+    text-align: center;
+    font-size: 59px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+
+    margin-bottom: 107px;
+}
+
+.first-section__buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.first-section__button {
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    padding: 11px 30px;
+    border-radius: 4px;
+    border: 1px solid #FFF;
+    cursor: pointer;
+
+}
+
+.first-section__button--first {
+    background: #69B9FF;
+
+}
+
+.first-section__button--second {
+    background: rgba(255, 255, 255, 0);
+
+}

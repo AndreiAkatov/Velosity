@@ -1,0 +1,41 @@
+.tabs-section {
+    padding-top: 80px;
+    padding-bottom: 125px;
+    background: #FFF;
+}
+
+.tabs-section__title {
+    color: #676770;
+}
+
+.tabs-section__subtitle {
+    color: #8E8E9C;
+}
+
+.tabs-section__buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    padding: 12px 0px;
+    margin-bottom: 40px;
+}
+
+.tabs-section__button {
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    padding: 0 30px;
+    border-radius: 4px;
+    border: 0;
+    background: #92A0AD;
+}
+
+.tabs-section__button.active {
+    background: #2E80B6;
+}
