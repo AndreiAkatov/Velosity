@@ -8,4 +8,4 @@ Layout: https://www.figma.com/file/Phaxqi5w7qaccfoYdx0aEn/Velocity-(Copy)?type=d
 
 to launch: npm start
 
-Date of completion: 01.08.2023.
+Date of completion: 01.09.2023.
