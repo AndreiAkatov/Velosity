@@ -10,6 +10,4 @@ to launch: npm start
 
 Date of completion: 01.09.2023.
 
-Date of completion: 01.09.2023.
-
 Author: Andrei Akatov.
